@@ -1,4 +1,3 @@
 # hello-world
-First repo !
 
-I'll take over your world.
+O brave New World !
